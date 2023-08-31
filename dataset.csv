@@ -1,0 +1,9 @@
+Name,Height,Width,Volume,Water
+capture_02,80,80,500,True
+capture_03,80,80,500,True
+capture_04,999,77,880,False
+capture_05,78,100,20,True
+capture_10,33,50,60,True
+capture_12,89,63,27,True
+capture_14,94,75,72,False
+capture_15,91,72,44,True
